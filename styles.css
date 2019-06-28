@@ -1,0 +1,175 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  cursor: url("imgs/crosshair.png")12 12, auto;
+}
+video {
+  max-width: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+
+}
+nav{
+
+  background-color: rgba(22, 22, 22, 0.9);
+  width: 940px;
+  height: 50px;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: solid;
+  justify-content: center;
+}
+
+li {
+  display: inline-block;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+.menu{
+  margin: 30px;
+}
+li a:hover {
+  color: firebrick;
+  text-decoration: none;
+  cursor: url("imgs/crosshair.png")12 12, auto;
+}
+li a {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  background-color: rgba(22, 22, 22, 0.9);
+  width: 940px;
+  height: 50px;
+  position: absolute;
+  top: 59%;
+  right: 25%;
+  z-index: 100;
+  display: inline-block;
+  padding-left: 0;
+  border: solid;
+  width: 940px;
+  height: 1600px;
+}
+main p {
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  text-decoration: none;
+  top: 5px;
+}
+
+main h1 {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+main h1:hover {
+  font-family: 'Fjalla One', sans-serif;
+  color: firebrick;
+  text-align: center;
+}
+
+#corpo {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+ul {
+  padding-right: 38.5px;
+  margin-left: 0;
+  text-align: center;
+}
+
+#csatualsk {
+  padding-left: 25%;
+}
+
+.minimaps {
+  padding-left: 40%;
+  width: 310px;
+  height: 280px;
+}
+
+#linkdownload {
+  color: firebrick;
+  font-family: 'Fjalla One', sans-serif;
+  text-decoration: none;
+}
+
+#linkdownload:active {
+  color: gray;
+}
+
+#steam {
+  width: 770px;
+  height: 615px;
+  padding-left: 9%;
+}
+
+#baixe {
+  height: 2320px;
+}
+
+#cadastro {
+  padding-left: 16%;
+}
+
+#download {
+  padding-left: 17%;
+}
+
+#cspronto {
+  width: 750px;
+  height: 530px;
+  padding-left: 10%;
+}
+
+main a {
+  font-family: 'Fjalla One', sans-serif;
+  color: firebrick;
+  text-align: center;
+  text-decoration: none;
+}
+
+#maincreditos {
+  height: 1650px;
+}
+
+.creditop {
+  text-align: center;
+  font-size: 24px;
+}
+
+
+#caza {
+  padding-left: 40%;
+}
+
+#pacheco {
+  width: 726px;
+  height: 490px;
+  padding-left: 11%
+}
+
+#seringueiraimg {
+  width: 726px;
+  height: 490px;
+  padding-left: 11%
+}
+
+#proposito {
+  text-align: center;
+}
+
+#objmain {
+  height: 150px;
+  padding-right: 10px;;
+}
