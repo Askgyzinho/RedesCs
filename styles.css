@@ -56,7 +56,7 @@ main {
   padding-left: 0;
   border: solid;
   width: 940px;
-  height: 1600px;
+  height: 1650px;
 }
 main p {
   color: white;
@@ -172,5 +172,19 @@ main a {
 
 #objmain {
   height: 150px;
-  padding-right: 10px;;
+  padding-right: 10px;
+
+}
+#expande-texto {
+  border-color: black;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  color: red;
+}
+#passagem{
+  border-color: black;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  color: red;
+  margin-left: 15px;
 }
