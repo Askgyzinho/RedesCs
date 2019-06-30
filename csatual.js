@@ -18,7 +18,7 @@ function expandeTexto (e) {
   }
   else
   {
-    BotaoAgoraEl.innerHTML = '?';
+    BotaoAgoraEl.innerHTML = 'Obs';
   }
 
 }
