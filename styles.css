@@ -152,18 +152,21 @@ main a {
 
 #caza {
   padding-left: 40%;
+  display: none;
 }
 
 #pacheco {
   width: 726px;
   height: 490px;
-  padding-left: 11%
+  padding-left: 11%;
+  display: none;
 }
 
 #seringueiraimg {
   width: 726px;
   height: 490px;
-  padding-left: 11%
+  padding-left: 11%;
+  display: none;
 }
 
 #proposito {
@@ -182,6 +185,19 @@ main a {
   color: red;
 }
 #passagem{
+  border-color: black;
+  height: 30px;
+  background: rgba(255, 255, 255, 0.1);
+  color: red;
+  margin-left: 15px;
+}
+#atualizacao{
+  border-color: black;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  color: red;
+}
+#cs1-6{
   border-color: black;
   height: 30px;
   background: rgba(255, 255, 255, 0.1);
