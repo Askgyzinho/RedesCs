@@ -28,7 +28,7 @@ function expandeTexto (e) {
 
 function expandeAtualizacao (e) {
 
-  let atualizacaAgoraEl = e.currentTarget;
+  let atualizacaoAgoraEl = e.currentTarget;
 
   atualizacaoAgoraEl.style.cursor = 'help';
 
